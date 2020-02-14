@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25232bc1-f726-4fa9-a3eb-429d2c366221" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sy2GBhGFAuiIqSLOh4Sv6iuptV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Events" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zst2019\Desktop\GHS\src\main\java" />
+      <recent name="C:\Users\zst2019\Desktop\GHS\src\main\java\Routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.App" />
+      <module name="dsca1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.Main" />
+      <module name="dsca1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25232bc1-f726-4fa9-a3eb-429d2c366221" name="Default Changelist" comment="" />
+      <created>1572521416876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572521416876</updated>
+      <workItem from="1572521420320" duration="1864000" />
+      <workItem from="1572524121939" duration="5778000" />
+      <workItem from="1572554224812" duration="3041000" />
+      <workItem from="1572610854288" duration="5000" />
+      <workItem from="1572617540352" duration="2525000" />
+      <workItem from="1572627431053" duration="705000" />
+      <workItem from="1572812465054" duration="8124000" />
+      <workItem from="1572846002857" duration="2340000" />
+      <workItem from="1572851384389" duration="4882000" />
+      <workItem from="1575738399625" duration="3620000" />
+      <workItem from="1575914301113" duration="2278000" />
+      <workItem from="1575918548297" duration="5799000" />
+      <workItem from="1576349298240" duration="16000" />
+      <workItem from="1576350475770" duration="1739000" />
+      <workItem from="1576519265560" duration="5874000" />
+      <workItem from="1576594865287" duration="13208000" />
+      <workItem from="1577041144833" duration="5346000" />
+      <workItem from="1577087154296" duration="8767000" />
+      <workItem from="1577100553239" duration="464000" />
+      <workItem from="1577124063361" duration="5276000" />
+      <workItem from="1577287457422" duration="16144000" />
+      <workItem from="1577365005610" duration="2328000" />
+      <workItem from="1577437731173" duration="5779000" />
+      <workItem from="1577460315776" duration="10015000" />
+      <workItem from="1577645587918" duration="7510000" />
+      <workItem from="1577683805509" duration="5596000" />
+      <workItem from="1577719634320" duration="589000" />
+      <workItem from="1581674113205" duration="705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dsca1$App.ic" NAME="App Coverage Results" MODIFIED="1577692586911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Components.*</FILTER>
+    </SUITE>
+  </component>
+</project>
